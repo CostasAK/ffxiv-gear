@@ -4,7 +4,6 @@
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/costasak/ffxiv-gear/Node.js%20CI/main?style=for-the-badge&logo=nodedotjs)](https://github.com/CostasAK/ffxiv-gear/actions/workflows/node.js.yml)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge)](https://github.com/prettier/prettier)
 [![GitHub](https://img.shields.io/github/license/costasak/ffxiv-gear?style=for-the-badge)](https://github.com/CostasAK/ffxiv-gear/blob/main/LICENSE)
-[![Project Board](https://img.shields.io/badge/project-board-316DCA?style=for-the-badge&logo=github)](https://github.com/CostasAK/ffxiv-gear/projects/2)
 [![GitHub watchers](https://img.shields.io/github/watchers/costasak/ffxiv-gear?style=for-the-badge&logo=github)](https://github.com/CostasAK/ffxiv-gear)
 [![GitHub forks](https://img.shields.io/github/forks/costasak/ffxiv-gear?style=for-the-badge&logo=github)](https://github.com/CostasAK/ffxiv-gear/network/members)
 [![Stars](https://img.shields.io/github/stars/costasak/ffxiv-gear?style=for-the-badge&logo=github)](https://github.com/CostasAK/ffxiv-gear)
