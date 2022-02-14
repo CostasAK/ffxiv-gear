@@ -1,0 +1,15 @@
+{
+    "name": "FFXIV Gear",
+    "short_name": "FFXIV Gear",
+    "icons": [
+        {
+            "src": "/android-chrome-72x72.png?v=kzmj4yv2",
+            "sizes": "72x72",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ac3a3b",
+    "background_color": "#ac3a3b",
+    "start_url": "https://ffxiv-gear.kokke.eu",
+    "display": "standalone"
+}

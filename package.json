@@ -1,5 +1,6 @@
 {
   "name": "ffxiv-gear",
+  "homepage": "https://ffxiv-gear.kokke.eu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
