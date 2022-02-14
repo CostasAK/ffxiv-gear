@@ -9,4 +9,4 @@
 [![Stars](https://img.shields.io/github/stars/costasak/ffxiv-gear?style=for-the-badge&logo=github)](https://github.com/CostasAK/ffxiv-gear)
 [![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://ko-fi.com/CostasAK)
 
-Gearset and Tomestone Planning for FInal Fantasy XIV.
+Gearset and Tomestone Planning for Final Fantasy XIV.
