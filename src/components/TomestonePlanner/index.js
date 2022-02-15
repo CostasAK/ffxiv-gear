@@ -66,17 +66,16 @@ export function TomestonePlanner(props) {
           <thead>
             <tr>
               <th className="icon"></th>
-              <th className="name"></th>
               <th className="cost">Cost</th>
             </tr>
           </thead>
           <tbody>
             {gearSlots.map((s) => (
               <tr>
-                <td className="icon">
+                <td className="item">
                   <img src={s.icon} alt="" width="48px" />
+                  <span>{s.name}</span>
                 </td>
-                <td className="name">{s.name}</td>
                 <td className="cost">{s.cost}</td>
               </tr>
             ))}
