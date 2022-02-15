@@ -59,7 +59,6 @@ const gearSlots = [
 ];
 
 export function TomestonePlanner(props) {
-  console.log(gearSlots);
   return (
     <div className="TomestonePlanner">
       <div className="container">
