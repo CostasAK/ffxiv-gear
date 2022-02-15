@@ -20,6 +20,10 @@
     justify-content: center;
     img {
       border-radius: var(--border-radius);
+      width: 1em;
+      height: 1em;
+      max-width: 40px;
+      max-height: 40px;
     }
   }
 }
