@@ -1,4 +1,4 @@
-# This will be integrated in [FFXIV Buddy](https://github.com/CostasAK/ffxiv-buddy).
+# ARCHIVED: This will be integrated in [FFXIV Buddy](https://github.com/CostasAK/ffxiv-buddy).
 
 # [FFXIV Gear <img src="public/000032_hr1.png" alt="" align="right">](https://ffxiv-gear.kokke.eu/)
 
