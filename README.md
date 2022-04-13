@@ -1,3 +1,5 @@
+# This will be integrated in [FFXIV Buddy](https://github.com/CostasAK/ffxiv-buddy).
+
 # [FFXIV Gear <img src="public/000032_hr1.png" alt="" align="right">](https://ffxiv-gear.kokke.eu/)
 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fffxiv-gear.kokke.eu)](https://ffxiv-gear.kokke.eu/)
